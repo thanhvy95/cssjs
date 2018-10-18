@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://duanvillasphuquoc.blogspot.com/';
+	var url_popup = 'http://diaoc180.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://duanvillasphuquoc.blogspot.com/';
+	  // var url_ppp = 'http://diaoc180.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
